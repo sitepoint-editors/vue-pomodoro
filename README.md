@@ -2,6 +2,8 @@
 
 A simple Vue app to help you employ the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) — a time management method developed by Francesco Cirillo in the late 1980s, where one uses a timer to break work into intervals, separated by short breaks.
 
+**This branch includes all of the Storybook files**
+
 ## Requirements
 
 - [Node.js](http://nodejs.org/)
